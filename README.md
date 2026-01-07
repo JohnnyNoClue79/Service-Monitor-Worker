@@ -27,7 +27,7 @@ A .NET worker service that periodically checks the health of configured URLs and
 1. **Clone the repo and restore**
 
 ```bash
-git clone <your-repo-url>
+git clone
 cd MonitorWorker
 dotnet restore
 Run the worker
